@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\ConsoleApplication1\ConsoleApplication2serv\bin\Debug\ConsoleApplication2serv.exe
+C:\Users\student\Desktop\ConsoleApplication1\ConsoleApplication2serv\bin\Debug\ConsoleApplication2serv.pdb
+C:\Users\student\Desktop\ConsoleApplication1\ConsoleApplication2serv\obj\x86\Debug\ConsoleApplication2serv.exe
+C:\Users\student\Desktop\ConsoleApplication1\ConsoleApplication2serv\obj\x86\Debug\ConsoleApplication2serv.pdb

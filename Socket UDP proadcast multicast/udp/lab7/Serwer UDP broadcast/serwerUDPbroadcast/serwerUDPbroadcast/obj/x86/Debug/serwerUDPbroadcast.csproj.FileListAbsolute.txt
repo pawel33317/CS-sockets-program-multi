@@ -1,0 +1,43 @@
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.pdb
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.pdb
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.exe
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.pdb
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.exe
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.pdb
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suchy\Desktop\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.exe
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.pdb
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.exe
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.pdb
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Materiały\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.exe
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.pdb
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.exe
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.pdb
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.csprojResolveAssemblyReference.cache
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Szkoła\Semestr VI\Semestr VI\Programowanie sieciowe\paczka udp\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.exe
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.pdb
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.exe
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\bin\Debug\serwerUDPbroadcast.pdb
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Serwer UDP broadcast\serwerUDPbroadcast\serwerUDPbroadcast\obj\x86\Debug\serwerUDPbroadcast.csproj.GenerateResource.Cache

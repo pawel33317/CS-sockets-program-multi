@@ -1,0 +1,17 @@
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\bin\Debug\SerwerUDP-Multicast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\bin\Debug\SerwerUDP-Multicast.pdb
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP_Multicast.Form1.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP_Multicast.Properties.Resources.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.pdb
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.exe
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.pdb
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\bin\Debug\SerwerUDP-Multicast.exe
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\bin\Debug\SerwerUDP-Multicast.pdb
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP_Multicast.Form1.resources
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP_Multicast.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Serwer UDP multicast\SerwerUDP-Multicast\SerwerUDP-Multicast\obj\x86\Debug\SerwerUDP-Multicast.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\bin\Debug\KlientUDP-multicast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\bin\Debug\KlientUDP-multicast.pdb
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP_multicast.Form1.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP_multicast.Properties.Resources.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.pdb
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.exe
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.pdb
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\bin\Debug\KlientUDP-multicast.exe
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\bin\Debug\KlientUDP-multicast.pdb
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP_multicast.Form1.resources
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP_multicast.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\Klient UDP multicast\KlientUDP-multicast\KlientUDP-multicast\obj\x86\Debug\KlientUDP-multicast.csprojResolveAssemblyReference.cache

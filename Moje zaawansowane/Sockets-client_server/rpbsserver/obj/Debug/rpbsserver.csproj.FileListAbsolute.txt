@@ -1,0 +1,9 @@
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\bin\Debug\rpbsserver.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\bin\Debug\rpbsserver.exe
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\bin\Debug\rpbsserver.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.Form1.resources
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.exe
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsserver\obj\Debug\rpbsserver.pdb

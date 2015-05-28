@@ -1,0 +1,9 @@
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\arek\Documents\Visual Studio 2010\Projects\LABORATORIUM PS\laboratorium4\Klient UDP broadcast\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

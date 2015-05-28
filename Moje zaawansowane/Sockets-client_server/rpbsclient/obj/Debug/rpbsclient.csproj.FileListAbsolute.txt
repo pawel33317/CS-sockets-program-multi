@@ -1,0 +1,8 @@
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\bin\Debug\rpbsclient.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\bin\Debug\rpbsclient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\bin\Debug\rpbsclient.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\obj\Debug\rpbsclient.Form1.resources
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\obj\Debug\rpbsclient.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\obj\Debug\rpbsclient.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\obj\Debug\rpbsclient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\rpbsserver\rpbsclient\obj\Debug\rpbsclient.pdb

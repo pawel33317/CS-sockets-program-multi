@@ -1,0 +1,7 @@
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\bin\Debug\multiClient.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\bin\Debug\multiClient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\bin\Debug\multiClient.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\obj\Debug\multiClient.exe
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\obj\Debug\multiClient.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\obj\Debug\multiClient.Main.resources
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiClient\obj\Debug\multiClient.csproj.GenerateResource.Cache

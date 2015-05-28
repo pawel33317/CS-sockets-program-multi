@@ -1,0 +1,11 @@
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\Client\bin\Debug\Client.exe.config
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\Client\bin\Debug\Client.exe
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\Client\bin\Debug\Client.pdb
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\Client\obj\Debug\Client.exe
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\Client\obj\Debug\Client.pdb
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\bin\Debug\Client.exe.config
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\bin\Debug\Client.exe
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\bin\Debug\Client.pdb
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\obj\Debug\Client.exe
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\Client\obj\Debug\Client.pdb

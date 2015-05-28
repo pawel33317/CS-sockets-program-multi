@@ -1,0 +1,5 @@
+c:\users\paweł\documents\visual studio 2013\Projects\socketclient2\socketclient2\bin\Debug\socketclient2.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\socketclient2\socketclient2\bin\Debug\socketclient2.exe
+c:\users\paweł\documents\visual studio 2013\Projects\socketclient2\socketclient2\bin\Debug\socketclient2.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\socketclient2\socketclient2\obj\Debug\socketclient2.exe
+c:\users\paweł\documents\visual studio 2013\Projects\socketclient2\socketclient2\obj\Debug\socketclient2.pdb

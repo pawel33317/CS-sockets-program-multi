@@ -1,0 +1,5 @@
+c:\users\paweł\documents\visual studio 2013\Projects\socketserver1\socketserver1\bin\Debug\socketserver1.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\socketserver1\socketserver1\bin\Debug\socketserver1.exe
+c:\users\paweł\documents\visual studio 2013\Projects\socketserver1\socketserver1\bin\Debug\socketserver1.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\socketserver1\socketserver1\obj\Debug\socketserver1.exe
+c:\users\paweł\documents\visual studio 2013\Projects\socketserver1\socketserver1\obj\Debug\socketserver1.pdb

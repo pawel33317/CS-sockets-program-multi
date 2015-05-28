@@ -1,0 +1,16 @@
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\bin\Debug\multiserver.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\bin\Debug\multiserver.exe
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\bin\Debug\multiserver.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\obj\Debug\multiserver.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\obj\Debug\multiserver.exe
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\obj\Debug\multiserver.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\obj\Debug\multiserver.Main.resources
+c:\users\paweł\documents\visual studio 2013\Projects\multiserver\multiserver\obj\Debug\multiserver.csproj.GenerateResource.Cache
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\bin\Debug\multiserver.exe.config
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\obj\Debug\multiserver.exe
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\obj\Debug\multiserver.pdb
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\bin\Debug\multiserver.exe
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\bin\Debug\multiserver.pdb
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\obj\Debug\multiserver.csprojResolveAssemblyReference.cache
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\obj\Debug\multiserver.Main.resources
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\sockets\Socket-multiserver_i_cliwent\multiserver\obj\Debug\multiserver.csproj.GenerateResource.Cache

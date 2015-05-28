@@ -1,0 +1,19 @@
+c:\users\paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.exe.config
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.exe
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.pdb
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.Server.resources
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.csproj.GenerateResource.Cache
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.exe
+C:\Users\Paweł\documents\visual studio 2013\Projects\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.pdb
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.exe.config
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.exe
+E:\Szkoła\moje\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.pdb
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.exe.config
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.exe
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.pdb
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.exe
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\bin\Debug\multiThreadServerv2.pdb
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.csprojResolveAssemblyReference.cache
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.Server.resources
+F:\Informatyka\moje projekty\programowanie_sieciowe\programowanie_sieciowe\multiThreadServerv2\multiThreadServerv2\obj\Debug\multiThreadServerv2.csproj.GenerateResource.Cache

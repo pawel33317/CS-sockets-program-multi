@@ -1,0 +1,9 @@
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\bin\Debug\Socket_Client_GUI_disconection.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\bin\Debug\Socket_Client_GUI_disconection.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\bin\Debug\Socket_Client_GUI_disconection.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.Form1.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Socket_Server_GUI_disconection\Socket_Client_GUI_disconection\obj\Debug\Socket_Client_GUI_disconection.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+c:\users\paweł\documents\visual studio 2013\Projects\socketclientserver3\socketclientserver3\bin\Debug\socketclientserver3.exe.config
